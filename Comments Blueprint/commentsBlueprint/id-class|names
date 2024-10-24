@@ -1,0 +1,123 @@
+
+
+                                              WELCOME TO MY COMMENTS BLUERPINT 
+                                              
+                                         below you will see different class names or id's that are needed for the website to work with the front end html
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+ index.html   __________________________________________________________________________________________________________________________________________________________
+id="comment-input" (this is the comment text input meaning enter the text for the comment in this element)
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="submitbtn" (this is the element that is clicked in order for the comment to be posted )
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="comments-section"(this is where the comments will be displayed meaning this is where the comments entered will show up)
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="sortby"(this is a select element that is used to sort the comments )
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+                
+                
+                
+                
+                
+                
+                 ___________________________________________________________________________________________________________________________________________________________
+
+
+
+signin.html
+___________________________________________________________________________________________________________________________________________________________
+id="signinForm"(this is the main container for the signin)
+elementType:form or div
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+id="username" this is the element that should contain the users username in order to log in 
+elementType:input or other text 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="password"this is the element thats value should contain the users password in order to log in 
+elementType:input or other text 
+------------------------------------------------------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________________________________________
+signup.html
+___________________________________________________________________________________________________________________________________________________________
+id="signupForm"(container for the signup elements )
+elementType:form or div
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="username" this is the element that should contain the users username in order to log in 
+elementType:input or other text 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="password"this is the element thats value should contain the users password in order to log in 
+elementType:input or other text 
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+id="repassword"this is the element meant to confirm the password should be equal to the password element in terms of values
+------------------------------------------------------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+account.html
+___________________________________________________________________________________________________________________________________________________________
+for pfp section in account
+
+
+id="pfpinput"(this is a file input that the user uploads a file to )
+elementType:file
+---------------------
+id="pfpsubmit"(this is the submit button for the pfp)
+elementType:button
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+for change username section in account
+
+id="userform"(this is the container for the username change )
+elementType:form or div 
+
+id="usernameChange"(this is the text value that the user enters their new username into )
+elementType:input or other text area
+
+ type="submit" id="submituser5" value="Submit">
+ elementType:submit make sure that the id is matching
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+for change password section in account
+
+id="passform"(this is where the password change is made meaning this is the container make sure its a form)
+elementType:form 
+
+id="acccurrentpass"(this is where the users current password should be entered )
+elementType:Password
+
+id="changePass"(this is where the users new password should be entered)
+elementType:Password
+
+ type="submit" id="submitpass" value="Submit">
+  elementType:submit make sure that the id is matching
+------------------------------------------------------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________________________________________________________________

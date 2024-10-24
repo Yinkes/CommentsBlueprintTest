@@ -1,0 +1,3 @@
+in this blueprint it requires 4 html pages that have the needed ids that u can get in the other file then the files are put into the html or you make a new html
+with the ids so that the blueprint works if a different server.js is used then make sure to use the code out of the other server.js
+so yea pretty much u make a index.html a account.html a signin.html and a signup.html with the required inputs add css then u are good 
